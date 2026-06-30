@@ -1,7 +1,7 @@
 # Mahtab Uddin Ahmed
 ### Business Intelligence Professional | Dhaka, Bangladesh
 
-Also known as **Mahin** in the industry.
+Also known as **Mahin Ahmed** in the industry.
 
 ---
 
