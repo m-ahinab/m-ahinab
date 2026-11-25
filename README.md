@@ -5,9 +5,9 @@ Also known as **Mahin Ahmed** in the industry.
 
 ---
 
-🔍 I turn raw data into actionable insights using Power BI, Tableau, SQL and Excel to uncover the truth that drives growth
+🔍 I turn raw data into actionable insights using Power BI, Tableau, SQL, and Python to uncover the truth that drives growth
 
-💼 Currently working at **Advanced Chemical Industries PLC (ACI)** as Senior Credit Executive, FP&A
+💼 Currently working at **Rancon Global Trucks Ltd - JAC Bangladesh** as Lead Business Intelligence
 
 ---
 
